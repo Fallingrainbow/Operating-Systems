@@ -1,0 +1,2 @@
+Providees updates automatically. The OS automatically checks for new updates and if available will download them from the internet 
+and install them on your computer. These updates fix program errors,update security and modify device drivers. 
