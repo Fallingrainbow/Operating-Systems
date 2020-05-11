@@ -1,3 +1,1 @@
-Providees updates automatically. The OS automatically checks for new updates and if available will download them from the internet 
-and install them on your computer. These updates fix program errors,update security and modify device drivers. 
-Managing memory. The OS assigns data and intructions to an area of memory while they are being processed. It monitors the content of memory. It then releases these items from being monitored in memory when the processor no longer requires them.
+
